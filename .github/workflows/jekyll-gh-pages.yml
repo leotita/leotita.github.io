@@ -37,7 +37,6 @@ jobs:
           destination: ./_site
           lsi: false
           safe: true
-          source: [your repo's top level directory]
           incremental: false
           highlighter: rouge
           gist:
